@@ -1,0 +1,343 @@
+button {
+  border: none;
+}
+button a {
+  color: #7e848e ;
+  text-decoration: none;
+}
+button a:hover {
+  text-decoration: none;
+  -webkit-box-shadow: 0 12px 16px 0 rgba(5, 0, 3, 0.24), 0 17px 50px 0 rgba(0, 34, 15, 0.19);
+          box-shadow: 0 12px 16px 0 rgba(5, 0, 3, 0.24), 0 17px 50px 0 rgba(0, 34, 15, 0.19);
+}
+button a:active {
+  border: none;
+}
+button a:focus {
+  border: none;
+}
+body:hover {
+  cursor: default;
+}
+.menu {
+  padding-top: 30px ;
+}
+.menu a {
+  text-align: right;
+}
+header {
+  text-align: right;
+}
+body {
+  padding: 0;
+}
+body p {
+  margin-top: 20px;
+}
+.img3 {
+  z-index: 9;
+  width: 500px;
+  height: 300px;
+  margin-top: -550px;
+  margin-left: -80px;
+}
+.head {
+  margin-top: 230px;
+}
+.head img {
+  float: right;
+  position: relative;
+  display: inline-block;
+}
+.head h2 {
+  margin-top: 80px;
+  padding-right: 15px;
+  position: absolute;
+  display: inline-block;
+  color: #ffffff;
+  font-size: 40px;
+}
+.head a {
+  margin-top: 264.5px;
+  position: absolute;
+  display: inline-block;
+  color: #fde428;
+  font-size: 22px;
+  text-transform: uppercase;
+  text-decoration: none;
+  -webkit-text-decoration-color: #fde428;
+          text-decoration-color: #fde428;
+  border-bottom: 3px #fde428 solid;
+}
+.head a:hover {
+  color: #001c37;
+  border: 3px #fde428 solid;
+  border-radius: 15px;
+  background-color: #fde428;
+  height: 40px;
+  margin-bottom: 400px;
+  font-weight: 500;
+}
+.navmenu {
+  text-align: right;
+  text-decoration: none;
+}
+.navmenu a:hover {
+  color: #fde428;
+}
+.new {
+  height: 900px;
+  background-image: url('../img/Layer.jpg');
+}
+.blok {
+  height: 525px;
+}
+.blok h3 {
+  color: #002e5b;
+  font-weight: 800;
+}
+.blok p {
+  font-size: 20px;
+  color: #666666;
+}
+.blok span {
+  font-size: 16px;
+}
+.blok img {
+  position: relative;
+}
+.img2 {
+  z-index: 9;
+  width: 450px;
+  height: 300px;
+  margin-top: -550px;
+  margin-left: -90px;
+}
+.img1 {
+  z-index: 2;
+}
+.text_blok {
+  padding-top: 100px;
+}
+.text_blok a {
+  text-transform: uppercase;
+  text-decoration: none;
+  border-bottom: 3px #002e5b solid;
+  color: #002e5b;
+}
+.text_blok h5 {
+  margin-top: 60px;
+}
+.text_blok a:hover {
+  color: #001c37;
+  border: 3px #fde428 solid;
+  border-radius: 15px;
+  background-color: #fde428;
+  height: 40px;
+  margin-bottom: 400px;
+  font-weight: 500;
+}
+.img_blok {
+  margin-left: 165px;
+  padding: 0;
+}
+.img_map {
+  height: 450px;
+  width: 500px;
+}
+.text_map {
+  padding: 0;
+  float: right;
+}
+.map {
+  padding-top: 100px;
+  background-color: #f4f4f4;
+  height: 670px;
+}
+.map a {
+  text-transform: uppercase;
+  text-decoration: none;
+  border-bottom: 3px #002e5b solid;
+  color: #002e5b;
+}
+.map h5 {
+  margin-top: 31px;
+}
+.map a:hover {
+  color: #001c37;
+  border: 3px #fde428 solid;
+  border-radius: 15px;
+  background-color: #fde428;
+  height: 40px;
+  margin-bottom: 400px;
+  font-weight: 500;
+}
+.map p {
+  color: #666666;
+}
+.map h3 {
+  font-weight: 800;
+}
+.line {
+  background-color: #002e5b;
+  height: 90px;
+  color: #fff;
+}
+.btn-line {
+  color: #001c37;
+  border: 3px #fde428 solid;
+  border-radius: 15px;
+  background-color: #fde428;
+  height: 40px;
+  margin-bottom: 400px;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-top: 20px;
+}
+.btn-line:hover {
+  color: #fde428;
+  border: 3px #fde428 solid;
+  border-radius: 15px;
+  background-color: #001c37;
+  height: 40px;
+  margin-bottom: 400px;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-top: 20px;
+}
+.text-line {
+  margin-top: 30px;
+  font-size: 19px;
+}
+.blok2 {
+  padding-top: 50px;
+  background-color: #f4f4f4;
+  height: 670px;
+}
+.blok2 h5 {
+  color: #002e5b;
+  text-align: center;
+  font-size: 26px;
+  font-weight: 800;
+  line-height: 1.8;
+  text-transform: uppercase;
+}
+.blok2 h4 {
+  font-size: 20px;
+  font-weight: 600;
+  text-align: left;
+  text-transform: uppercase;
+  margin: 20px  0;
+}
+.blok2 img {
+  width: 370px;
+  height: 245px;
+}
+.text-blok2 p {
+  color: #666666;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 50px;
+}
+.row_blok2 p {
+  color: #666666;
+  text-align: left;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 40px;
+}
+.exit {
+  float: right;
+  padding-right: 0;
+  margin-right: 0;
+}
+.first {
+  padding-left: 0;
+  margin-left: 0;
+  float: left;
+}
+.cen {
+  padding-right: 0;
+  margin-right: 0;
+  padding-left: 8px;
+  margin-left: 0;
+}
+.container {
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.blok3 {
+  text-align: center;
+  height: 360px;
+  background-color: #002e5b;
+  color: #fff;
+}
+.text-blok3 {
+  padding-top: 135px;
+  text-transform: uppercase;
+  line-height: 1.9;
+}
+.text_blok4 p {
+  font-size: 22px;
+  margin-top: 40px;
+}
+.text_blok4 span {
+  margin-top: 30px;
+}
+.blok4 img {
+  padding-left: 60px;
+}
+.text-blok5 {
+  background-color: #062848;
+  color: #f5f5f6;
+  text-align: center;
+  padding-top: 130px;
+}
+.text-blok5 p {
+  padding-top: 30px;
+  font-size: 20px;
+}
+.blok5 {
+  background-color: #062848;
+  height: 540px;
+  text-align: center;
+}
+.blok5 a {
+  text-align: center;
+  text-decoration: none;
+  font-weight: 500;
+  color: #f5f5f6;
+}
+.blok5 a:hover {
+  color: #001c37;
+  border: 3px #fde428 solid;
+  border-radius: 15px;
+  background-color: #fde428;
+  height: 40px;
+  margin-bottom: 400px;
+  font-weight: 500;
+}
+.texta {
+  margin-top: 70px;
+}
+.blok6 {
+  background-color: #858787;
+  height: 80px;
+}
+.blok6 a {
+  text-align: center;
+  text-decoration: none;
+  font-weight: 500;
+  color: #fff;
+}
+.blok6 a:hover {
+  color: #fde428;
+  font-weight: 500;
+}
+.blok6 a:hover p {
+  margin-top: 20px;
+  padding-top: 20px;
+}
